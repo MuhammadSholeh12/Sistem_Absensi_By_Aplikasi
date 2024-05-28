@@ -62,6 +62,6 @@ Hal yang perlu dipersiapkan:
     </h2>
 </div>
 
-Pada sistem ini, model _face recognition_ dibangun menggunakan model _deep learning Convolutional Neural Network_ (CNN). Kode program dapat diakses [di sini](https://github.com/HijazP/sistem-absensi-berbasis-face-recognition/blob/master/model/Face%20Recognition%20Using%20CNN.ipynb). 
+Pada sistem ini, model _face recognition_ dibangun menggunakan model _deep learning Convolutional Neural Network_ (CNN). Kode program dapat diakses [di sini](https://github.com/MuhammadSholeh12/Sistem_Absensi_By_Aplikasi/blob/main/model/Face%20Recognition%20Using%20CNN.ipynb). 
 
-Data yang digunakan berupa gambar 18 orang yang diidentifikasi sebagai pegawai untuk sistem absensi yang sudah ada. Data latih model dapat diakses [di sini](https://github.com/HijazP/sistem-absensi-berbasis-face-recognition/tree/master/model/Face%20Images/Face%20Images/Final%20Training%20Images). 
+Data yang digunakan berupa gambar 18 orang yang diidentifikasi sebagai pegawai untuk sistem absensi yang sudah ada. Data latih model dapat diakses [di sini](https://github.com/MuhammadSholeh12/Sistem_Absensi_By_Aplikasi/tree/main/model/Face%20Images). 
